@@ -68,12 +68,15 @@ Optional push notifications for inbound transactions and transaction confirmatio
 
 Integration of Payjoin Client
 
-Shielded transactions for registered Bull Bitcoin users [trusted swap]
+Shielded transactions for registered Zelron Assistance users [trusted swap]
+
 Receive Lightning Network payments with automated conversion to on-chain funds [trusted swap].
 Integration of compact blocks syncing with the Bitcoin Network, which protects users’ network privacy.
 Integration of the Lightning Network Development Kit, allowing the user to create a self-custodial Lightning Wallet.
 Integration of a Lightning Service Provider which would allow the user to seamlessly open balanced Lightning Network channels.
+
 Acknowledgements
+
 Most of the code is by Mohit Kumar.
 Credits to all devs for contributions and advice.
 Big thanks to Spiral, BitcoinZavior for creating BDK-flutter, Thunderbiscuit for BDK-ffi and the BDK team for making this project possible.
